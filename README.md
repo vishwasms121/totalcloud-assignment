@@ -1,5 +1,5 @@
 # totalcloud-assignment
-To run the hello world site on AWS, execute the below mentioned commands:
+To run the hello world python flask site on AWS, execute the below mentioned commands:
 
 1. git clone https://github.com/vishwasms121/totalcloud-assignment.git
 2. cd totalcloud-assignment
