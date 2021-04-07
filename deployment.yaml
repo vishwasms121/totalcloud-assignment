@@ -30,6 +30,6 @@ spec:
       containers:
       - name: flask-app
         image: flask-kubernetes
-        imagePullPolicy: Never
+        imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 5000
